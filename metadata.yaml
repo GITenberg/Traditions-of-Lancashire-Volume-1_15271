@@ -1,0 +1,28 @@
+_repo: Traditions-of-Lancashire-Volume-1_15271
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roby, John
+    alias: Roby, J. (John)
+    birthdate: 1793
+    deathdate: 1850
+    gutenberg_agent_id: '5971'
+    url: http://www.gutenberg.org/2009/agents/5971
+description: ''
+gutenberg_issued: '2005-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- England -- Lancashire'
+- !lcsh 'English literature -- England -- Lancashire'
+- !lcc 'PR'
+title: Traditions of Lancashire, Volume 1
+url: http://www.gutenberg.org/ebooks/15271
